@@ -1,15 +1,15 @@
 {
  "reel": "The summer a city couldn't stop dancing",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "DANCE",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgF-j3dCNCD/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-23T18:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-23T18:00:05.262124+00:00"
+ "updated": "2026-11-23T18:03:26.029501+00:00"
 }
