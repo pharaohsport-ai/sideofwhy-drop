@@ -1,5 +1,15 @@
 {
- "reel": "the_banana_youve_never_tasted_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-23T13:09:43.668374+00:00"
+ "reel": "The banana you've never tasted",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "BANANA",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-23T17:00:00+00:00",
+ "cover": "frame",
+ "cover_note": "",
+ "updated": "2026-11-23T13:09:51.949207+00:00"
 }
