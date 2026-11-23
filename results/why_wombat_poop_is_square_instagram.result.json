@@ -1,15 +1,15 @@
 {
  "reel": "Why wombat poop is square",
- "status": "posting",
+ "status": "failed",
  "account": "@sideofwhy",
  "trigger": "WOMBAT",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "",
+ "error": "upload: ERROR  HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
  "pin_first_comment": false,
  "publish_at": "",
  "cover": "frame",
- "cover_note": "",
- "updated": "2026-11-23T12:22:16.361653+00:00"
+ "cover_note": "Designed cover not used (Netlify is switched off (the phone is the server)); the frame at 70.2 s was used.",
+ "updated": "2026-11-23T12:24:08.621553+00:00"
 }
