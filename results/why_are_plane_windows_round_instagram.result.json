@@ -1,15 +1,15 @@
 {
  "reel": "Why windows are round",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "COMET",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgFuzO1FJS1/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-23T15:39:03.377167+00:00"
+ "updated": "2026-11-23T15:46:44.231787+00:00"
 }
