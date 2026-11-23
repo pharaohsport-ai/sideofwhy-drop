@@ -1,5 +1,15 @@
 {
- "reel": "why_wombat_poop_is_square_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-23T12:43:49.401326+00:00"
+ "reel": "Why wombat poop is square",
+ "status": "posting",
+ "account": "@sideofwhy",
+ "trigger": "WOMBAT",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "",
+ "cover": "frame",
+ "cover_note": "",
+ "updated": "2026-11-23T12:44:03.969157+00:00"
 }
