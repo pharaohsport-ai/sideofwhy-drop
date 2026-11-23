@@ -1,15 +1,15 @@
 {
  "reel": "The banana you've never tasted",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "BANANA",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgF3h9Zgl7P/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-23T17:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-23T17:00:02.930019+00:00"
+ "updated": "2026-11-23T17:02:50.452007+00:00"
 }
