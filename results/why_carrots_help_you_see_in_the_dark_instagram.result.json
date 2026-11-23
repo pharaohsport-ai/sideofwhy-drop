@@ -1,15 +1,15 @@
 {
  "reel": "Why carrots 'help you see in the dark'",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "CARROT",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/p/DgFrD4yFeUs/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-23T15:11:02.129717+00:00"
+ "updated": "2026-11-23T15:12:00.558735+00:00"
 }
