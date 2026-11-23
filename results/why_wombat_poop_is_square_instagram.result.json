@@ -1,6 +1,6 @@
 {
  "reel": "Why wombat poop is square",
- "status": "scheduled",
+ "status": "cancelled",
  "account": "@sideofwhy",
  "trigger": "WOMBAT",
  "permalink": "",
@@ -8,8 +8,8 @@
  "automation_error": "",
  "error": "",
  "pin_first_comment": false,
- "publish_at": "2026-11-23T16:50:00+00:00",
+ "publish_at": "",
  "cover": "frame",
  "cover_note": "",
- "updated": "2026-11-23T12:14:31.491229+00:00"
+ "updated": "2026-11-23T12:21:59.665654+00:00"
 }
