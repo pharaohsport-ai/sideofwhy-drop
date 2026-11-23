@@ -1,5 +1,15 @@
 {
- "reel": "when_ketchup_was_medicine_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-23T13:39:01.529781+00:00"
+ "reel": "When ketchup was medicine",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "KETCHUP",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-23T17:30:00+00:00",
+ "cover": "frame",
+ "cover_note": "",
+ "updated": "2026-11-23T13:39:10.121924+00:00"
 }
