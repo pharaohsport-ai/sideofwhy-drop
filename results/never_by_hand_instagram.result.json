@@ -1,15 +1,5 @@
 {
- "reel": "Never by hand",
- "status": "cancelled",
- "account": "@sideofwhy",
- "trigger": "CORE",
- "permalink": "",
- "automation_live": false,
- "automation_error": "",
- "error": "Deleted in Replyline.",
- "pin_first_comment": false,
- "publish_at": "2026-11-24T18:00:00+00:00",
- "cover": "designed",
- "cover_note": "",
- "updated": "2026-11-24T10:38:39.839551+00:00"
+ "reel": "never_by_hand_instagram",
+ "status": "received on the home phone",
+ "updated": "2026-11-24T10:58:38.746010+00:00"
 }
