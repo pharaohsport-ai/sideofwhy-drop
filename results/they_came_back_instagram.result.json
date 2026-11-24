@@ -1,15 +1,5 @@
 {
- "reel": "They came back",
- "status": "cancelled",
- "account": "@sideofwhy",
- "trigger": "CAPITOL",
- "permalink": "",
- "automation_live": false,
- "automation_error": "",
- "error": "Deleted in Replyline.",
- "pin_first_comment": false,
- "publish_at": "2026-11-25T11:30:00+00:00",
- "cover": "designed",
- "cover_note": "",
- "updated": "2026-11-24T10:38:44.619653+00:00"
+ "reel": "they_came_back_instagram",
+ "status": "received on the home phone",
+ "updated": "2026-11-24T11:32:57.515185+00:00"
 }
