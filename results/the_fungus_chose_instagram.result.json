@@ -1,5 +1,15 @@
 {
- "reel": "the_fungus_chose_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T03:21:41.588172+00:00"
+ "reel": "The fungus chose",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "ZOMBIE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T17:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T03:21:48.793470+00:00"
 }
