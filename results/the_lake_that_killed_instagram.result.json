@@ -1,5 +1,15 @@
 {
- "reel": "the_lake_that_killed_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T01:12:17.858418+00:00"
+ "reel": "The lake that killed",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "NYOS",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T11:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T01:12:26.444982+00:00"
 }
