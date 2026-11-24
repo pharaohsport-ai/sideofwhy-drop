@@ -1,5 +1,15 @@
 {
- "reel": "the_pyramids_only_writing_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T22:55:54.376848+00:00"
+ "reel": "The pyramid's only writing",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "PYRAMID",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T19:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T22:57:27.211911+00:00"
 }
