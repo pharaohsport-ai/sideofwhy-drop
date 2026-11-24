@@ -1,5 +1,15 @@
 {
- "reel": "not_from_space_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T11:26:56.683137+00:00"
+ "reel": "Not from space",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "ROSWELL",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T20:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T11:27:05.360167+00:00"
 }
