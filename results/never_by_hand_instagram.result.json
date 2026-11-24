@@ -1,5 +1,15 @@
 {
- "reel": "never_by_hand_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T04:23:48.005231+00:00"
+ "reel": "Never by hand",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "CORE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T18:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T04:23:57.100152+00:00"
 }
