@@ -1,5 +1,15 @@
 {
- "reel": "not_one_report_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T18:51:35.713606+00:00"
+ "reel": "Not one report",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "STARGATE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T17:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T18:51:42.315338+00:00"
 }
