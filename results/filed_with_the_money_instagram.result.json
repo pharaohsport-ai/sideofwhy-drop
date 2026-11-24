@@ -1,5 +1,15 @@
 {
- "reel": "filed_with_the_money_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T19:39:47.669733+00:00"
+ "reel": "Filed with the money",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "FILES",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T18:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T19:40:20.888246+00:00"
 }
