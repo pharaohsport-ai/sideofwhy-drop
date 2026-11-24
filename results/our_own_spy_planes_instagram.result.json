@@ -1,15 +1,15 @@
 {
  "reel": "Our own spy planes",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "AREA",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgI0dNhDe0V/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-24T20:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T20:30:30.586731+00:00"
+ "updated": "2026-11-24T20:32:40.141815+00:00"
 }
