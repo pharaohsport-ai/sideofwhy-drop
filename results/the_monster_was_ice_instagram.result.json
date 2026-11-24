@@ -1,15 +1,15 @@
 {
  "reel": "The monster was ice",
- "status": "scheduled",
+ "status": "cancelled",
  "account": "@sideofwhy",
  "trigger": "BLOOP",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "",
+ "error": "Deleted in Replyline.",
  "pin_first_comment": false,
  "publish_at": "2026-11-24T17:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T10:57:08.584003+00:00"
+ "updated": "2026-11-24T11:08:10.919543+00:00"
 }
