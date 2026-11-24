@@ -1,0 +1,15 @@
+{
+ "reel": "Why wombat poop is square",
+ "status": "cancelled",
+ "account": "@sideofwhy",
+ "trigger": "WOMBAT",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "Deleted in Replyline.",
+ "pin_first_comment": false,
+ "publish_at": "",
+ "cover": "designed",
+ "cover_note": "Designed cover not used (Netlify is switched off (the phone is the server)); the frame at 70.2 s was used.",
+ "updated": "2026-11-24T01:09:09.998129+00:00"
+}
