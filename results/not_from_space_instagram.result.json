@@ -1,15 +1,15 @@
 {
  "reel": "Not from space",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "ROSWELL",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgIw87EiAt6/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-24T20:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T20:00:09.902195+00:00"
+ "updated": "2026-11-24T20:02:07.062958+00:00"
 }
