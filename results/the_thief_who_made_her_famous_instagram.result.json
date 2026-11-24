@@ -1,15 +1,15 @@
 {
  "reel": "The thief who made the Mona Lisa famous",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "MONA",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgIA2Y-k7pq/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-24T13:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T13:00:02.967217+00:00"
+ "updated": "2026-11-24T13:01:47.059119+00:00"
 }
