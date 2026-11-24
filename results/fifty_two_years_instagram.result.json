@@ -1,15 +1,15 @@
 {
  "reel": "Fifty-two years",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "ABYSS",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgImqbvD5yW/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-24T18:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T18:30:02.704323+00:00"
+ "updated": "2026-11-24T18:32:16.155266+00:00"
 }
