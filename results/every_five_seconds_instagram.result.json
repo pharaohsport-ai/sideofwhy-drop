@@ -1,5 +1,15 @@
 {
- "reel": "every_five_seconds_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T18:27:16.613813+00:00"
+ "reel": "Every five seconds",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "FOREST",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T17:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T18:27:24.567222+00:00"
 }
