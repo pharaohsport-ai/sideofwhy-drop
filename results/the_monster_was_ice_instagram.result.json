@@ -1,15 +1,15 @@
 {
  "reel": "The monster was ice",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "BLOOP",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgIfyORCIfz/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-24T17:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T17:30:02.097912+00:00"
+ "updated": "2026-11-24T17:32:05.754169+00:00"
 }
