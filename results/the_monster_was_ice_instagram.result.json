@@ -1,5 +1,15 @@
 {
- "reel": "the_monster_was_ice_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T11:18:37.512364+00:00"
+ "reel": "The monster was ice",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "BLOOP",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T17:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T11:18:45.498099+00:00"
 }
