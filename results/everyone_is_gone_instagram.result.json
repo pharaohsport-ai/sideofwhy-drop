@@ -1,5 +1,15 @@
 {
- "reel": "everyone_is_gone_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T22:13:11.180516+00:00"
+ "reel": "What if everyone was gone?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "EMPTY",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T19:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T22:14:17.170001+00:00"
 }
