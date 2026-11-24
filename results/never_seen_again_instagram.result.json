@@ -1,5 +1,15 @@
 {
- "reel": "never_seen_again_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T11:23:43.086865+00:00"
+ "reel": "Never seen again",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "CELESTE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T19:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T11:23:51.684591+00:00"
 }
