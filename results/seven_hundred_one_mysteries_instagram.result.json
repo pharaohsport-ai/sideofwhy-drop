@@ -1,15 +1,6 @@
 {
- "reel": "701 mysteries",
- "status": "cancelled",
- "account": "@sideofwhy",
- "trigger": "BLUEBOOK",
- "permalink": "",
- "automation_live": false,
- "automation_error": "",
- "error": "Deleted in Replyline.",
- "pin_first_comment": false,
- "publish_at": "2026-11-25T11:00:00+00:00",
- "cover": "designed",
- "cover_note": "",
- "updated": "2026-11-24T10:38:43.500813+00:00"
+ "reel": "seven_hundred_one_mysteries_instagram",
+ "status": "failed",
+ "error": "The home phone couldn't take the film from GitHub: the film arrived damaged (size or SHA-256 doesn't match)",
+ "updated": "2026-11-24T11:07:15.713893+00:00"
 }
