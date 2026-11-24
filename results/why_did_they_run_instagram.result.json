@@ -1,5 +1,15 @@
 {
- "reel": "why_did_they_run_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T02:15:58.279250+00:00"
+ "reel": "Why did they run?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "DYATLOV",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T11:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T02:16:08.900548+00:00"
 }
