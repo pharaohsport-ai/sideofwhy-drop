@@ -1,5 +1,15 @@
 {
- "reel": "no_crater_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T11:15:33.128073+00:00"
+ "reel": "No crater",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "TUNGUSKA",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T16:50:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T11:15:41.522804+00:00"
 }
