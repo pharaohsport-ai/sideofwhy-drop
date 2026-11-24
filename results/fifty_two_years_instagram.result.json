@@ -1,15 +1,15 @@
 {
  "reel": "Fifty-two years",
- "status": "scheduled",
+ "status": "cancelled",
  "account": "@sideofwhy",
  "trigger": "ABYSS",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "",
+ "error": "Deleted in Replyline.",
  "pin_first_comment": false,
  "publish_at": "2026-11-24T18:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T04:46:29.162135+00:00"
+ "updated": "2026-11-24T10:38:40.583110+00:00"
 }
