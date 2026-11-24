@@ -1,5 +1,15 @@
 {
- "reel": "the_thief_who_made_her_famous_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T01:15:11.844279+00:00"
+ "reel": "The thief who made the Mona Lisa famous",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "MONA",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-24T13:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T01:15:19.347090+00:00"
 }
