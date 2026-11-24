@@ -1,5 +1,15 @@
 {
- "reel": "he_saw_it_too_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T17:57:28.342344+00:00"
+ "reel": "He saw it too",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "PHOENIX",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T16:50:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T17:57:36.372650+00:00"
 }
