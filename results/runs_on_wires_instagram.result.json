@@ -1,15 +1,15 @@
 {
  "reel": "Runs on wires",
- "status": "scheduled",
+ "status": "cancelled",
  "account": "@sideofwhy",
  "trigger": "CARRINGTON",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "",
+ "error": "Deleted in Replyline.",
  "pin_first_comment": false,
  "publish_at": "2026-11-24T19:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T11:02:59.253625+00:00"
+ "updated": "2026-11-24T11:08:13.199089+00:00"
 }
