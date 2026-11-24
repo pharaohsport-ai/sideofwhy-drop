@@ -1,15 +1,15 @@
 {
  "reel": "They glowed in the dark",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "RADIUM",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgH6FURCFS0/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-24T12:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T12:00:02.921403+00:00"
+ "updated": "2026-11-24T12:02:57.104153+00:00"
 }
