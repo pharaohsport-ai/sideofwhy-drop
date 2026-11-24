@@ -1,5 +1,15 @@
 {
- "reel": "neither_confirm_nor_deny_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-24T19:15:29.469885+00:00"
+ "reel": "Neither confirm nor deny",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "GLOMAR",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T18:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-24T19:15:38.604437+00:00"
 }
