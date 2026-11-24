@@ -1,15 +1,15 @@
 {
  "reel": "The fungus chose",
- "status": "scheduled",
+ "status": "cancelled",
  "account": "@sideofwhy",
  "trigger": "ZOMBIE",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "",
+ "error": "Deleted in Replyline.",
  "pin_first_comment": false,
  "publish_at": "2026-11-24T17:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T10:55:42.963108+00:00"
+ "updated": "2026-11-24T11:08:10.237985+00:00"
 }
