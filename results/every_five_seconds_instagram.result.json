@@ -1,6 +1,6 @@
 {
  "reel": "Every five seconds",
- "status": "scheduled",
+ "status": "posting",
  "account": "@sideofwhy",
  "trigger": "FOREST",
  "permalink": "",
@@ -11,5 +11,5 @@
  "publish_at": "2026-11-25T17:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T18:27:24.567222+00:00"
+ "updated": "2026-11-25T17:00:12.913861+00:00"
 }
