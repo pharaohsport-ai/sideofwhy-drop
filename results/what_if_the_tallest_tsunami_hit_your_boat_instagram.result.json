@@ -1,5 +1,15 @@
 {
- "reel": "what_if_the_tallest_tsunami_hit_your_boat_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T15:18:20.626839+00:00"
+ "reel": "What if the tallest tsunami ever recorded hit your boat?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "WAVE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T04:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T15:19:49.172186+00:00"
 }
