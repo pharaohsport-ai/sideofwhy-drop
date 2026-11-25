@@ -1,6 +1,6 @@
 {
  "reel": "Not one report",
- "status": "scheduled",
+ "status": "posting",
  "account": "@sideofwhy",
  "trigger": "STARGATE",
  "permalink": "",
@@ -11,5 +11,5 @@
  "publish_at": "2026-11-25T17:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-24T18:51:42.315338+00:00"
+ "updated": "2026-11-25T17:30:17.932831+00:00"
 }
