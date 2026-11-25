@@ -1,15 +1,15 @@
 {
  "reel": "What if you jumped into Saturn?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "SATURN",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLV3V_yZCR/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T20:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T20:00:52.572660+00:00"
+ "updated": "2026-11-25T20:03:12.050798+00:00"
 }
