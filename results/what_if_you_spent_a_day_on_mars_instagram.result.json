@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_spent_a_day_on_mars_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T20:21:55.471369+00:00"
+ "reel": "What if you spent a day on Mars?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "MARS",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T08:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T20:23:38.844427+00:00"
 }
