@@ -1,15 +1,15 @@
 {
  "reel": "What if every light went out?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "DARK",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLt1_Agm1f/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T23:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T23:30:25.645411+00:00"
+ "updated": "2026-11-25T23:33:23.152624+00:00"
 }
