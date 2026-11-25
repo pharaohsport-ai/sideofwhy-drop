@@ -1,5 +1,15 @@
 {
- "reel": "what_if_its_not_a_drill_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T00:19:19.331475+00:00"
+ "reel": "What if it's not a drill?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "ALERT",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T20:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T00:20:05.074922+00:00"
 }
