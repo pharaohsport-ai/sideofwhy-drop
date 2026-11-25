@@ -1,5 +1,15 @@
 {
- "reel": "the_book_nobody_can_read_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T12:55:30.832531+00:00"
+ "reel": "The book nobody can read",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "VOYNICH",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T03:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T12:56:47.035055+00:00"
 }
