@@ -1,15 +1,15 @@
 {
  "reel": "What if you landed on Venus?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "VENUS",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLqYWiK8sU/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T23:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T23:00:29.145948+00:00"
+ "updated": "2026-11-25T23:02:32.261231+00:00"
 }
