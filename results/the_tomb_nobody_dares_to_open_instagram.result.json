@@ -1,5 +1,15 @@
 {
- "reel": "the_tomb_nobody_dares_to_open_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T00:59:25.929185+00:00"
+ "reel": "The tomb nobody dares to open",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "TOMB",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T21:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T00:59:33.475019+00:00"
 }
