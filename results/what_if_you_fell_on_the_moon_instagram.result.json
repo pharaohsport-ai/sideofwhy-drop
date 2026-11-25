@@ -1,15 +1,15 @@
 {
  "reel": "What if you fell on the Moon?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "MOON",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLgIvxO8nS/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T21:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T21:30:50.377317+00:00"
+ "updated": "2026-11-25T21:32:55.660156+00:00"
 }
