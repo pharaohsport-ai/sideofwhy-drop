@@ -1,5 +1,15 @@
 {
- "reel": "the_law_to_release_the_epstein_files_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T21:10:08.777867+00:00"
+ "reel": "The law to release the Epstein files",
+ "status": "not posted",
+ "account": "@sideofwhy",
+ "trigger": "FILES",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "\"FILES\" is already used by \"Filed with the money\". Pick another word.",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T09:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T21:11:57.306938+00:00"
 }
