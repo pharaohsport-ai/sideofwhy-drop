@@ -1,5 +1,15 @@
 {
- "reel": "what_if_the_sun_vanished_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T10:13:59.274687+00:00"
+ "reel": "What if the Sun vanished?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "SUN",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T01:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T10:15:07.210882+00:00"
 }
