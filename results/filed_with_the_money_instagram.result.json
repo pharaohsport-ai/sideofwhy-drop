@@ -1,15 +1,15 @@
 {
  "reel": "Filed with the money",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "FILES",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLLdDRBPRf/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T18:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T18:30:18.049197+00:00"
+ "updated": "2026-11-25T18:32:11.088675+00:00"
 }
