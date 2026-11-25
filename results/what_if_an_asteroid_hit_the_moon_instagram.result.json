@@ -1,5 +1,15 @@
 {
- "reel": "what_if_an_asteroid_hit_the_moon_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T12:24:54.476395+00:00"
+ "reel": "What if an asteroid hit the Moon?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "ASTEROID",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T02:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T12:26:14.198340+00:00"
 }
