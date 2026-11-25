@@ -1,5 +1,15 @@
 {
- "reel": "what_if_everyone_jumped_at_once_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T13:39:19.210300+00:00"
+ "reel": "What if everyone on Earth jumped at once?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "JUMP",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T03:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T13:40:39.971635+00:00"
 }
