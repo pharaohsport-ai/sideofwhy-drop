@@ -1,5 +1,15 @@
 {
- "reel": "where_did_amelia_earhart_go_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T10:04:46.642116+00:00"
+ "reel": "Where did Amelia Earhart go?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "AMELIA",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T01:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T10:05:47.183286+00:00"
 }
