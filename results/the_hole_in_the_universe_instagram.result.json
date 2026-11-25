@@ -1,5 +1,15 @@
 {
- "reel": "the_hole_in_the_universe_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T18:58:05.503926+00:00"
+ "reel": "The hole in the universe",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "VOID",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T06:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T18:59:46.870680+00:00"
 }
