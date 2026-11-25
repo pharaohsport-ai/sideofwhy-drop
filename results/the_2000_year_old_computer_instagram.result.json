@@ -1,5 +1,15 @@
 {
- "reel": "the_2000_year_old_computer_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T19:55:59.360602+00:00"
+ "reel": "The 2,000-year-old computer",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "GEARS",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T07:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T19:57:44.285375+00:00"
 }
