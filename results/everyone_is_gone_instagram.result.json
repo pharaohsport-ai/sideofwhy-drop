@@ -1,15 +1,15 @@
 {
  "reel": "What if everyone was gone?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "EMPTY",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLO9Z3usYr/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T19:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T19:00:48.231359+00:00"
+ "updated": "2026-11-25T19:02:35.391044+00:00"
 }
