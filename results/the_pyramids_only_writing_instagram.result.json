@@ -1,15 +1,15 @@
 {
  "reel": "The pyramid's only writing",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "PYRAMID",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLSZpXBeLL/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T19:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T19:31:02.181791+00:00"
+ "updated": "2026-11-25T19:32:55.463254+00:00"
 }
