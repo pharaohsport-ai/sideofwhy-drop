@@ -1,5 +1,15 @@
 {
- "reel": "what_if_every_light_went_out_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T07:51:37.058100+00:00"
+ "reel": "What if every light went out?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "DARK",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-25T23:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T07:52:44.497760+00:00"
 }
