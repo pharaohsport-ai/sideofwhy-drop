@@ -1,5 +1,15 @@
 {
- "reel": "the_volcano_born_in_a_cornfield_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T20:25:02.782161+00:00"
+ "reel": "A volcano born in a cornfield",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "FIELD",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T08:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T20:26:47.849919+00:00"
 }
