@@ -1,5 +1,15 @@
 {
- "reel": "the_day_millions_of_computers_crashed_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T17:03:52.737860+00:00"
+ "reel": "The day millions of computers crashed",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "FREEZE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T07:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T17:05:53.543963+00:00"
 }
