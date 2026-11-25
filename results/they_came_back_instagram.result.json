@@ -1,15 +1,15 @@
 {
  "reel": "They came back",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "CAPITOL",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgKbccLhybv/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T11:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T11:30:09.676379+00:00"
+ "updated": "2026-11-25T11:33:11.780268+00:00"
 }
