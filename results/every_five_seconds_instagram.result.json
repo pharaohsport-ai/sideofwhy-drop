@@ -1,15 +1,15 @@
 {
  "reel": "Every five seconds",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "FOREST",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgLBJ_KNSmc/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T17:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T17:00:12.913861+00:00"
+ "updated": "2026-11-25T17:02:24.507565+00:00"
 }
