@@ -1,5 +1,15 @@
 {
- "reel": "a_city_under_the_pyramids_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-25T05:50:31.761814+00:00"
+ "reel": "A city under the pyramids?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "GIZA",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T00:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-25T05:51:29.792298+00:00"
 }
