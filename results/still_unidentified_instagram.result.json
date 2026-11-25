@@ -1,15 +1,15 @@
 {
  "reel": "Still unidentified",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "TICTAC",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgKe7g6BDle/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-25T12:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T12:00:34.261843+00:00"
+ "updated": "2026-11-25T12:03:45.279070+00:00"
 }
