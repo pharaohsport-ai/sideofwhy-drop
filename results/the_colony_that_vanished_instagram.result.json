@@ -1,15 +1,15 @@
 {
  "reel": "The colony that vanished",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "CROATOAN",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgNALNRh0ER/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T11:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T11:30:12.230104+00:00"
+ "updated": "2026-11-26T11:32:13.087131+00:00"
 }
