@@ -1,15 +1,15 @@
 {
  "reel": "What if you were trapped inside a mountain?",
- "status": "failed",
+ "status": "posting",
  "account": "@sideofwhy",
  "trigger": "TUNNEL",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "| link: ERROR  HTTP 400: Unsupported post request. Object with ID '17841435908591318' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (code 100, subcode 33) | link, 3rd try: ERROR  HTTP 400: Unsupported post request. Object with ID '17841435908591318' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (code 100, subcode 33)",
+ "error": "",
  "pin_first_comment": false,
- "publish_at": "2026-11-26T02:00:00+00:00",
+ "publish_at": "",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T02:01:17.947477+00:00"
+ "updated": "2026-11-26T02:05:29.796406+00:00"
 }
