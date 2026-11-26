@@ -1,5 +1,15 @@
 {
- "reel": "the_colony_that_vanished_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T01:15:20.485957+00:00"
+ "reel": "The colony that vanished",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "CROATOAN",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T11:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T01:15:35.181967+00:00"
 }
