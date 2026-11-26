@@ -1,5 +1,15 @@
 {
- "reel": "the_man_on_somerton_beach_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T05:50:43.722728+00:00"
+ "reel": "The man on the beach",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "SOMERTON",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T16:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T05:53:11.125391+00:00"
 }
