@@ -1,5 +1,15 @@
 {
- "reel": "the_lighthouse_keepers_who_vanished_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T02:13:06.123044+00:00"
+ "reel": "The lighthouse keepers who vanished",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "LIGHTHOUSE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T12:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T02:15:02.847006+00:00"
 }
