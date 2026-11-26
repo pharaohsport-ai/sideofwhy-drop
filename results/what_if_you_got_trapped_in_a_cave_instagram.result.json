@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_got_trapped_in_a_cave_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T05:10:20.861115+00:00"
+ "reel": "What if you got trapped in a flooded cave?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "CAVE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T15:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T05:13:36.511243+00:00"
 }
