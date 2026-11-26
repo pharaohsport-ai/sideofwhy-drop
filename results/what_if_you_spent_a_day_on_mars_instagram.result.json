@@ -1,6 +1,6 @@
 {
  "reel": "What if you spent a day on Mars?",
- "status": "scheduled",
+ "status": "posting",
  "account": "@sideofwhy",
  "trigger": "MARS",
  "permalink": "",
@@ -11,5 +11,5 @@
  "publish_at": "2026-11-26T08:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T20:23:38.844427+00:00"
+ "updated": "2026-11-26T08:00:00.256583+00:00"
 }
