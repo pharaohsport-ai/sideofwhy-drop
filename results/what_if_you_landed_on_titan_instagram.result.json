@@ -1,15 +1,15 @@
 {
  "reel": "What if you landed on Titan?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "TITAN",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgL0n0kMPIZ/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T00:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T00:30:03.540269+00:00"
+ "updated": "2026-11-26T00:32:02.052623+00:00"
 }
