@@ -1,15 +1,15 @@
 {
  "reel": "What if the tallest tsunami ever recorded hit your boat?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "WAVE",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMMqwQhZ1u/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T04:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T04:00:24.218261+00:00"
+ "updated": "2026-11-26T04:02:10.665192+00:00"
 }
