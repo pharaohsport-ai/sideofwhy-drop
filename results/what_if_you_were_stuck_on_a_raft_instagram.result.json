@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_were_stuck_on_a_raft_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T02:53:57.214954+00:00"
+ "reel": "What if you were stuck alone on a raft?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "RAFT",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T13:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T02:56:04.082610+00:00"
 }
