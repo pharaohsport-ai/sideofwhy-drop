@@ -1,15 +1,15 @@
 {
  "reel": "What if an asteroid hit the Moon?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "ASTEROID",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMCbaGBmyy/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T02:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T02:30:51.586992+00:00"
+ "updated": "2026-11-26T02:32:42.112260+00:00"
 }
