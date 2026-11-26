@@ -1,5 +1,15 @@
 {
- "reel": "the_green_children_of_woolpit_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T07:31:39.315306+00:00"
+ "reel": "The green children",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "GREEN",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T18:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T07:34:23.895235+00:00"
 }
