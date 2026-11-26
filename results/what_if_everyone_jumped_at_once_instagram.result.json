@@ -1,15 +1,15 @@
 {
  "reel": "What if everyone on Earth jumped at once?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "JUMP",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMJWKlhqOb/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T03:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T03:31:18.817205+00:00"
+ "updated": "2026-11-26T03:32:58.191065+00:00"
 }
