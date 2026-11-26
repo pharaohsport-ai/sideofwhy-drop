@@ -1,5 +1,15 @@
 {
- "reel": "the_woman_with_eight_names_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T04:29:59.728707+00:00"
+ "reel": "The woman with eight names",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "NORWAY",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T14:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T04:32:16.285514+00:00"
 }
