@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_were_trapped_in_a_sunken_ship_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T07:55:08.368552+00:00"
+ "reel": "What if you were trapped in a sunken ship?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "UNDERWATER",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T19:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T07:57:34.426624+00:00"
 }
