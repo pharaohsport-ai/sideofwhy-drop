@@ -1,15 +1,15 @@
 {
  "reel": "What if you were stranded on an island for 15 months?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "ISLAND",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgNfMecqA4y/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T16:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T16:01:28.829425+00:00"
+ "updated": "2026-11-26T16:04:07.785856+00:00"
 }
