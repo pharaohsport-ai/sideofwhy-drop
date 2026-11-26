@@ -1,15 +1,15 @@
 {
  "reel": "What if lightning struck you seven times?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "LIGHTNING",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgNs6hPM8ig/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T18:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T18:01:25.996441+00:00"
+ "updated": "2026-11-26T18:03:04.610087+00:00"
 }
