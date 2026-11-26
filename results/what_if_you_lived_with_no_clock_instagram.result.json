@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_lived_with_no_clock_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T03:58:09.399488+00:00"
+ "reel": "What if you lived 2 months with no clock?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "CLOCK",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T14:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T04:00:24.163073+00:00"
 }
