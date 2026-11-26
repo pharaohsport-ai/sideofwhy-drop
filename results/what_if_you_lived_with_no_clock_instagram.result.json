@@ -1,15 +1,15 @@
 {
  "reel": "What if you lived 2 months with no clock?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "CLOCK",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgNRbiuAyjF/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T14:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T14:01:13.860594+00:00"
+ "updated": "2026-11-26T14:03:01.829050+00:00"
 }
