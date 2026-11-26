@@ -1,5 +1,15 @@
 {
- "reel": "the_wow_signal_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T00:10:25.227156+00:00"
+ "reel": "The Wow! signal",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "WOW",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T10:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T00:11:40.847370+00:00"
 }
