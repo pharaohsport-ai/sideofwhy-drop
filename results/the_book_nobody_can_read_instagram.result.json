@@ -1,6 +1,6 @@
 {
  "reel": "The book nobody can read",
- "status": "scheduled",
+ "status": "posting",
  "account": "@sideofwhy",
  "trigger": "VOYNICH",
  "permalink": "",
@@ -11,5 +11,5 @@
  "publish_at": "2026-11-26T03:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-25T12:56:47.035055+00:00"
+ "updated": "2026-11-26T03:00:43.998127+00:00"
 }
