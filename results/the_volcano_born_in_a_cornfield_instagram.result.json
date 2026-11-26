@@ -1,15 +1,15 @@
 {
  "reel": "A volcano born in a cornfield",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "FIELD",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMrosxxLCo/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T08:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T08:31:02.999617+00:00"
+ "updated": "2026-11-26T08:32:46.461249+00:00"
 }
