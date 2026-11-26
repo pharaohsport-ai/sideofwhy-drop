@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_stayed_awake_for_11_days_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T08:00:27.213188+00:00"
+ "reel": "What if you stayed awake for 11 days?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "AWAKE",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T19:30:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T08:02:39.098842+00:00"
 }
