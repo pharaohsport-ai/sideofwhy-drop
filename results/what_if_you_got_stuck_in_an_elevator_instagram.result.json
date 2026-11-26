@@ -1,5 +1,15 @@
 {
- "reel": "what_if_you_got_stuck_in_an_elevator_instagram",
- "status": "received on the home phone",
- "updated": "2026-11-26T02:32:13.687333+00:00"
+ "reel": "What if you got stuck in an elevator?",
+ "status": "scheduled",
+ "account": "@sideofwhy",
+ "trigger": "ELEVATOR",
+ "permalink": "",
+ "automation_live": false,
+ "automation_error": "",
+ "error": "",
+ "pin_first_comment": false,
+ "publish_at": "2026-11-26T12:00:00+00:00",
+ "cover": "designed",
+ "cover_note": "",
+ "updated": "2026-11-26T02:34:36.211544+00:00"
 }
