@@ -1,15 +1,15 @@
 {
  "reel": "What if Earth stopped spinning?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "SPIN",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMXAnqvguf/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T05:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T05:30:49.140045+00:00"
+ "updated": "2026-11-26T05:32:35.998790+00:00"
 }
