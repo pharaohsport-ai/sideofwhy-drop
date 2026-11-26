@@ -1,15 +1,15 @@
 {
  "reel": "What if you jumped into a hole through the Earth?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "HOLE",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMd7q-No_7/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T06:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T06:31:04.924833+00:00"
+ "updated": "2026-11-26T06:32:54.006922+00:00"
 }
