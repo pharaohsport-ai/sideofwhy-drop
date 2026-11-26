@@ -1,15 +1,15 @@
 {
  "reel": "What if the Sun vanished?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "SUN",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMAOPiNUds/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T02:11:38.036725+00:00"
+ "updated": "2026-11-26T02:13:25.485725+00:00"
 }
