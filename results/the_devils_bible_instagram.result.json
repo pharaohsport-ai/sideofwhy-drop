@@ -1,15 +1,15 @@
 {
  "reel": "The Devil's Bible",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "SPELLS",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgMQLIDsbQ8/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T04:30:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T04:31:02.760933+00:00"
+ "updated": "2026-11-26T04:32:46.701035+00:00"
 }
