@@ -1,15 +1,15 @@
 {
  "reel": "Where did Amelia Earhart go?",
- "status": "failed",
+ "status": "queued",
  "account": "@sideofwhy",
  "trigger": "AMELIA",
  "permalink": "",
  "automation_live": false,
  "automation_error": "",
- "error": "| link: ERROR  HTTP 400: Unsupported post request. Object with ID '17841435908591318' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (code 100, subcode 33) | link, 3rd try: ERROR  HTTP 400: Unsupported post request. Object with ID '17841435908591318' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (code 100, subcode 33)",
+ "error": "",
  "pin_first_comment": false,
- "publish_at": "2026-11-26T01:30:00+00:00",
+ "publish_at": "",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T01:31:41.598604+00:00"
+ "updated": "2026-11-26T02:05:41.162045+00:00"
 }
