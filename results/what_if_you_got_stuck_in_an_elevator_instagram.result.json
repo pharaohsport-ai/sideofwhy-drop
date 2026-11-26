@@ -1,15 +1,15 @@
 {
  "reel": "What if you got stuck in an elevator?",
- "status": "posting",
+ "status": "posted",
  "account": "@sideofwhy",
  "trigger": "ELEVATOR",
- "permalink": "",
- "automation_live": false,
+ "permalink": "https://www.instagram.com/reel/DgNDoY7hqx-/",
+ "automation_live": true,
  "automation_error": "",
  "error": "",
- "pin_first_comment": false,
+ "pin_first_comment": true,
  "publish_at": "2026-11-26T12:00:00+00:00",
  "cover": "designed",
  "cover_note": "",
- "updated": "2026-11-26T12:00:26.158422+00:00"
+ "updated": "2026-11-26T12:02:15.194258+00:00"
 }
